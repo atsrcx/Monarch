@@ -1,0 +1,10 @@
+{
+   "name": "SYSTEM: MONARCH CALISTHENICS",
+   "description": "Monarch V3 cinematic monochrome mobile-first AI calisthenics master with real-time MediaPipe computer vision form tracking, skill tree mastery, combat conditioning, and Gemini AI form coaching engine.",
+   "requestFramePermissions": [
+     "camera"
+   ],
+   "majorCapabilities": [
+     "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+   ]
+ }
